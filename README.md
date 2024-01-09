@@ -2,11 +2,11 @@
 [![test](https://github.com/tsubokuraryosuke/mypkg/actions/workflows/test.yml/badge.svg)](https://github.com/tsubokuraryosuke/mypkg/actions/workflows/test.yml)  
 
 ## 目的
-フィボナッチ数列を計算をROS2パッケージで行う
+フィボナッチ数列の計算をROS2パッケージで行う
 
 ## リポジトリ内のノード
 * talker.py  
-毎秒フィボナッチ数列を計算し続ける
+毎秒フィボナッチ数列の計算をする
 
 * listener.py  
 talker.pyの計算結果を表示する
