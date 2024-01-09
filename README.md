@@ -5,10 +5,10 @@
 フィボナッチ数列を計算をROS2パッケージで行う
 
 ## リポジトリ内のノード
-* talker.py
+* talker.py  
 毎秒フィボナッチ数列を計算し続ける
 
-* listener.py
+* listener.py  
 talker.pyの計算結果を表示する
 
 
